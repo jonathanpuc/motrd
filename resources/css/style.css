@@ -84,9 +84,9 @@ body {
     text-decoration: none; }
 
 footer {
-  position: relative;
-  height: 50px;
-  bottom: 0;
+  position: fixed;
+  height: 0px;
+  bottom: 20px;
   width: 100%;
   font-size: 60%;
   line-height: 50px;
