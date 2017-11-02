@@ -1,0 +1,30 @@
+/* Tablets */
+@media only screen 
+  and (min-width: 768px) 
+  and (max-width: 1024px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+
+    
+}
+
+
+
+@media only screen 
+  and (min-width: 1025px) 
+  and (max-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+  
+}
+
+/* Laptop to large Laptop */
+@media only screen 
+  and (min-width: 1601px) 
+  and (-webkit-min-device-pixel-ratio: 1) {
+    
+    .intro-text-box {
+      padding-top: 250px;
+    }
+    
+
+}
+
