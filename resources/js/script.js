@@ -1,13 +1,1 @@
-$(document).ready(function() {
-	$('.donate-btn').hover(function() {
-		$(this).addClass('swing');
-		$(this).mouseleave(function() {
-			$(this).removeClass('swing');
-		});
-
-	});
-
-	$('.donate-btn').click(function() {
-		$(this).addClass('rollOut');
-	});
-})
+$(document).ready(function(){$('.donate-btn').hover(function(){$(this).addClass('swing');$(this).mouseleave(function(){$(this).removeClass('swing');});});$('.donate-btn').click(function(){$(this).addClass('rollOut');});});window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)};gtag('js',new Date());gtag('config','UA-109158586-1');
