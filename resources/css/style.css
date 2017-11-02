@@ -36,10 +36,10 @@ body {
   width: 80%;
   margin: 0 auto;
   text-align: center;
-  padding-top: 100px; }
+  padding-top: 50px; }
   .intro-text-box h1 {
     font-family: "I Still Know", "Arial", serif;
-    font-size: 300%;
+    font-size: 200%;
     font-weight: 500;
     color: #ecf0f1;
     animation-duration: 1s;
@@ -52,7 +52,7 @@ body {
     color: #c21012;
     text-transform: uppercase;
     letter-spacing: 6px;
-    font-size: 120%;
+    font-size: 80%;
     animation-duration: 1s; }
 
 #donate {
